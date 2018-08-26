@@ -1,2 +1,2 @@
 # ShaderForge
-Made some necessary changed to let ShaderForge run in Unity 2018.1+
+Made some necessary changes to let ShaderForge work with Unity 2018.1+
